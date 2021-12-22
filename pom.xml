@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>  
   <groupId>com.javatpoint.application</groupId>  
   <artifactId>my-first-app</artifactId>  
-  <packaging>temp.jar</packaging>
+  <packaging>jar</packaging>
   <name>my-first-app</name>
   <version>1</version>  
   
