@@ -4,7 +4,7 @@
   <groupId>com.javatpoint.application</groupId>  
   <artifactId>my-first-app</artifactId>  
   <packaging>jar</packaging>
-  <ame>my-first-app</name>
+  <name>my-first-app</name>
   <version>1</version>  
   
 </project> 
